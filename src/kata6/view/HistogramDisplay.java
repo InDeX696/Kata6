@@ -2,9 +2,9 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package kata4.view;
+package kata6.view;
 
-import kata4.model.Histogram;
+import kata6.model.Histogram;
 import java.awt.Dimension;
 import javax.swing.JPanel;
 import org.jfree.chart.ChartFactory;
